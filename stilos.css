@@ -1,0 +1,17 @@
+@charset "utf-8";
+body p {
+	clear: right;
+	color: #36FC06;
+	text-align: left;
+	text-shadow: 1px 1px #FF0000;
+	text-transform: capitalize;
+	word-spacing: 0;
+	vertical-align: 12px;
+	list-style-position: inside;
+	border-right-style: dotted;
+	border-right-color: #F08B8D;
+	max-height: px;
+	display: block;
+	height: 40px;
+	width: 20000px;
+}
